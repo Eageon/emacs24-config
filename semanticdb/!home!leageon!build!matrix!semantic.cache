@@ -1,0 +1,445 @@
+;; Object matrix/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "matrix/"
+  :tables (list 
+   (semanticdb-table "matrix.cc"
+    :major-mode 'c++-mode
+    :tags 
+        '( ("iostream" include (:system-flag t) nil [2 21])
+            ("cstdlib" include (:system-flag t) nil [22 40])
+            ("cstring" include (:system-flag t) nil [41 59])
+            ("matrix.h" include nil nil [61 80])
+            ("DEBUG" variable (:constant-flag t) nil [165 170])
+            ("std" type
+               (:members 
+                  ( ("defaultStrategy" variable
+                       (:pointer 1
+                        :constant-flag t
+                        :type ("Strategy" type (:type "class") nil nil))
+                        (reparse-symbol namespacesubparts) [215 282])
+                    ("Matrix" function
+                       (:constructor-flag t
+                        :parent "Matrix"
+                        :arguments 
+                          ( ("rows" variable (:type "int") (reparse-symbol arg-sub-list) [299 308])
+                            ("columns" variable (:type "int") (reparse-symbol arg-sub-list) [309 321]))                          
+                        :type ("Matrix" type (:type "class") nil nil))
+                        (reparse-symbol namespacesubparts) [284 534])
+                    ("Matrix" function
+                       (:destructor-flag t
+                        :parent "Matrix"
+                        :type "void")
+                        (reparse-symbol namespacesubparts) [536 639])
+                    ("Randomize" function
+                       (:parent "Matrix"
+                        :type "void")
+                        (reparse-symbol namespacesubparts) [641 813])
+                    ("Multiply" function
+                       (:pointer 1
+                        :parent "Matrix"
+                        :arguments 
+                          ( ("B" variable
+                               (:pointer 1
+                                :constant-flag t
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol arg-sub-list) [840 856]))                          
+                        :type ("Matrix" type (:type "class") nil nil))
+                        (reparse-symbol namespacesubparts) [815 905])
+                    ("Multiply" function
+                       (:pointer 1
+                        :parent "SingleThreadStrategy"
+                        :arguments 
+                          ( ("A" variable
+                               (:pointer 1
+                                :constant-flag t
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol arg-sub-list) [947 963])
+                            ("B" variable
+                               (:pointer 1
+                                :constant-flag t
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol arg-sub-list) [964 980]))                          
+                        :type ("Matrix" type (:type "class") nil nil))
+                        (reparse-symbol namespacesubparts) [908 1430]))                  
+                :type "namespace")
+                nil [197 1444]))          
+    :file "matrix.cc"
+    :pointmax 1444
+    :fsize 1318
+    :lastmodtime '(21091 22416 313263 902000)
+    :unmatched-syntax 'nil
+    :lexical-table 
+        '(("DEBUG" (spp-arg-list ("x") 170 . 173) . 
+              ((DO "do" 174 . 176) (semantic-list "{ }" 177 . 180) (WHILE "while" 180 . 185) (semantic-list "(0)" 185 . 188)))
+          )
+
+    )
+   (semanticdb-table "matrix.h"
+    :major-mode 'c-mode
+    :tags 
+        '( ("__MATRIX_YU_H__" variable (:constant-flag t) nil [33 48])
+            ("NUMBER_LIMIT" variable (:constant-flag t) nil [58 70])
+            ("cstdlib" include nil nil [78 96])
+            ("std" type
+               (:members 
+                  ( ("Matrix" type
+                       (:prototype t
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [116 129])
+                    ("Strategy" type
+                       (:prototype t
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [130 145])
+                    ("SingleThreadStrategy" type
+                       (:prototype t
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [146 173])
+                    ("Matrix" type
+                       (:members 
+                          ( ("private" label nil (reparse-symbol classsubparts) [191 199])
+                            ("columns" variable (:type "int") (reparse-symbol classsubparts) [201 219])
+                            ("rows" variable (:type "int") (reparse-symbol classsubparts) [201 219])
+                            ("element" variable
+                               (:pointer 2
+                                :type "int")
+                                (reparse-symbol classsubparts) [221 235])
+                            ("strategy" variable
+                               (:pointer 1
+                                :type ("Strategy" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [239 258])
+                            ("public" label nil (reparse-symbol classsubparts) [260 267])
+                            ("Matrix" function
+                               (:prototype-flag t
+                                :constructor-flag t
+                                :arguments 
+                                  ( ("rows" variable (:type "int") (reparse-symbol arg-sub-list) [276 285])
+                                    ("columns" variable (:type "int") (reparse-symbol arg-sub-list) [286 298]))                                  
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [269 299])
+                            ("Matrix" function
+                               (:prototype-flag t
+                                :destructor-flag t
+                                :type "void")
+                                (reparse-symbol classsubparts) [301 311])
+                            ("GetRows" function
+                               (:typemodifiers ("inline")
+                                :type "int")
+                                (reparse-symbol classsubparts) [313 354])
+                            ("GetColumns" function
+                               (:typemodifiers ("inline")
+                                :type "int")
+                                (reparse-symbol classsubparts) [356 403])
+                            ("Randomize" function
+                               (:prototype-flag t
+                                :type "void")
+                                (reparse-symbol classsubparts) [406 423])
+                            ("SetNumber" function
+                               (:typemodifiers ("inline")
+                                :arguments 
+                                  ( ("i" variable (:type "int") (reparse-symbol arg-sub-list) [448 454])
+                                    ("j" variable (:type "int") (reparse-symbol arg-sub-list) [455 461])
+                                    ("num" variable (:type "int") (reparse-symbol arg-sub-list) [462 470]))                                  
+                                :type "void")
+                                (reparse-symbol classsubparts) [426 495])
+                            ("GetNumber" function
+                               (:typemodifiers ("inline")
+                                :arguments 
+                                  ( ("i" variable (:type "int") (reparse-symbol arg-sub-list) [518 524])
+                                    ("j" variable (:type "int") (reparse-symbol arg-sub-list) [525 531]))                                  
+                                :type "int")
+                                (reparse-symbol classsubparts) [497 563])
+                            ("Multiply" function
+                               (:prototype-flag t
+                                :pointer 1
+                                :arguments 
+                                  ( ("B" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [582 598]))                                  
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [565 605])
+                            ("SetMultiplyStrategy" function
+                               (:arguments 
+                                  ( ("specificStrategy" variable
+                                       (:pointer 1
+                                        :type ("Strategy" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [633 660]))                                  
+                                :type "void")
+                                (reparse-symbol classsubparts) [608 693])
+                            ("()" function
+                               (:operator-flag t
+                                :arguments 
+                                  ( ("i" variable (:type "int") (reparse-symbol arg-sub-list) [713 719])
+                                    ("j" variable (:type "int") (reparse-symbol arg-sub-list) [720 726]))                                  
+                                :type "int")
+                                (reparse-symbol classsubparts) [696 752]))                          
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [176 791])
+                    ("Strategy" type
+                       (:members 
+                          ( ("public" label nil (reparse-symbol classsubparts) [810 817])
+                            ("Strategy" function
+                               (:constructor-flag t
+                                :type ("Strategy" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [819 832])
+                            ("Strategy" function
+                               (:destructor-flag t
+                                :typemodifiers ("virtual")
+                                :type "void")
+                                (reparse-symbol classsubparts) [834 856])
+                            ("Multiply" function
+                               (:pure-virtual-flag t
+                                :prototype-flag t
+                                :pointer 1
+                                :typemodifiers ("virtual")
+                                :arguments 
+                                  ( ("A" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [884 900])
+                                    ("B" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [901 917]))                                  
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [859 922]))                          
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [793 925])
+                    ("SingleThreadStrategy" type
+                       (:superclasses 
+                          ( ("Strategy" type
+                               (:protection "public"
+                                :type "class")
+                                nil nil))                          
+                        :members 
+                          ( ("public" label nil (reparse-symbol classsubparts) [974 981])
+                            ("SingleThreadStrategy" function
+                               (:constructor-flag t
+                                :type ("SingleThreadStrategy" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [983 1008])
+                            ("SingleThreadStrategy" function
+                               (:destructor-flag t
+                                :type "void")
+                                (reparse-symbol classsubparts) [1010 1036])
+                            ("Multiply" function
+                               (:prototype-flag t
+                                :pointer 1
+                                :typemodifiers ("virtual")
+                                :arguments 
+                                  ( ("A" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [1064 1080])
+                                    ("B" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [1081 1097]))                                  
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [1039 1098]))                          
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [927 1101]))                  
+                :type "namespace")
+                nil [99 1104]))          
+    :file "matrix.h"
+    :pointmax 1112
+    :fsize 1111
+    :lastmodtime '(21091 6495 838350 242000)
+    :unmatched-syntax 'nil
+    :lexical-table 
+        '(("NUMBER_LIMIT" . ((number "99999" 71 . 76)))
+          ("__MATRIX_YU_H__")
+          )
+
+    )
+   (semanticdb-table "prog2.cc"
+    :major-mode 'c++-mode
+    :tags 
+        '( ("iostream" include (:system-flag t) nil [1 20])
+            ("pthread.h" include (:system-flag t) nil [21 41])
+            ("matrix.h" include nil nil [42 61])
+            ("prog2.h" include nil nil [62 80])
+            ("MAX_THREAD" variable
+               (:constant-flag t
+                :type "int")
+                nil [82 109])
+            ("LARGE" variable
+               (:constant-flag t
+                :type "int")
+                nil [110 134])
+            ("std" using (:type ("std" type
+                 (:prototype t
+                  :type "namespace")
+                  nil nil)) nil [136 156])
+            ("A" variable
+               (:pointer 1
+                :typemodifiers ("static")
+                :constant-flag t
+                :type ("Matrix" type (:type "class") nil nil))
+                nil [158 188])
+            ("B" variable
+               (:pointer 1
+                :typemodifiers ("static")
+                :constant-flag t
+                :type ("Matrix" type (:type "class") nil nil))
+                nil [189 219])
+            ("C" variable
+               (:pointer 1
+                :typemodifiers ("static")
+                :type ("Matrix" type (:type "class") nil nil))
+                nil [220 244])
+            ("row_ready" variable
+               (:typemodifiers ("static")
+                :type "int")
+                nil [335 360])
+            ("row_ready_mutex" variable
+               (:typemodifiers ("static")
+                :type ("pthread_mutex_t" type (:type "class") nil nil))
+                nil [361 400])
+            ("compute_row_thread" function
+               (:prototype-flag t
+                :pointer 1
+                :typemodifiers ("static")
+                :arguments 
+                  ( ("row_num" variable
+                       (:pointer 1
+                        :type "void")
+                        (reparse-symbol arg-sub-list) [434 448]))                  
+                :type "void")
+                nil [402 449])
+            ("MultiThreadStrategy" function
+               (:constructor-flag t
+                :parent "MultiThreadStrategy"
+                :arguments 
+                  ( ("num_thread" variable (:type "int") (reparse-symbol arg-sub-list) [543 558]))                  
+                :type ("MultiThreadStrategy" type (:type "class") nil nil))
+                nil [502 761])
+            ("MultiThreadStrategy" function
+               (:destructor-flag t
+                :parent "MultiThreadStrategy"
+                :type "void")
+                nil [763 812])
+            ("Multiply" function
+               (:pointer 1
+                :parent "MultiThreadStrategy"
+                :arguments 
+                  ( ("mat_A" variable
+                       (:pointer 1
+                        :constant-flag t
+                        :type ("Matrix" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [852 872])
+                    ("mat_B" variable
+                       (:pointer 1
+                        :constant-flag t
+                        :type ("Matrix" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [873 893]))                  
+                :type ("Matrix" type (:type "class") nil nil))
+                nil [814 1424])
+            ("compute_row_thread" function
+               (:pointer 1
+                :typemodifiers ("static")
+                :arguments 
+                  ( ("thread_num" variable
+                       (:pointer 1
+                        :type "void")
+                        (reparse-symbol arg-sub-list) [1523 1540]))                  
+                :type "void")
+                nil [1491 2096])
+            ("main" function
+               (:arguments 
+                  ( ("argc" variable (:type "int") (reparse-symbol arg-sub-list) [2107 2116])
+                    ("argv" variable
+                       (:pointer 1
+                        :dereference 1
+                        :constant-flag t
+                        :type "char")
+                        (reparse-symbol arg-sub-list) [2117 2136]))                  
+                :type "int")
+                nil [2098 2566]))          
+    :file "prog2.cc"
+    :pointmax 2566
+    :fsize 2565
+    :lastmodtime '(21091 22886 185265 383000)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "prog2.h"
+    :major-mode 'c-mode
+    :tags 
+        '( ("__PROG2_YU_H__" variable (:constant-flag t) nil [32 46])
+            ("pthread.h" include (:system-flag t) nil [48 68])
+            ("matrix.h" include nil nil [69 88])
+            ("common.h" include nil nil [89 108])
+            ("std" type
+               (:members 
+                  ( ("MultiThreadStrategy" type
+                       (:superclasses 
+                          ( ("Strategy" type
+                               (:protection "public"
+                                :type "class")
+                                nil nil))                          
+                        :members 
+                          ( ("private" label nil (reparse-symbol classsubparts) [173 181])
+                            ("NUM_THREAD" variable (:type "int") (reparse-symbol classsubparts) [183 198])
+                            ("thread_id" variable
+                               (:pointer 1
+                                :type ("pthread_t" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [200 221])
+                            ("compute_mutex" variable (:type ("pthread_mutex_t" type (:type "class") nil nil)) (reparse-symbol classsubparts) [440 470])
+                            ("public" label nil (reparse-symbol classsubparts) [473 480])
+                            ("MultiThreadStrategy" function
+                               (:prototype-flag t
+                                :constructor-flag t
+                                :arguments 
+                                  ( ("num_thread" variable (:type "int") (reparse-symbol arg-sub-list) [502 517]))                                  
+                                :type ("MultiThreadStrategy" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [482 518])
+                            ("MultiThreadStrategy" function
+                               (:prototype-flag t
+                                :destructor-flag t
+                                :type "void")
+                                (reparse-symbol classsubparts) [520 543])
+                            ("Multiply" function
+                               (:prototype-flag t
+                                :pointer 1
+                                :typemodifiers ("virtual")
+                                :arguments 
+                                  ( ("A" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [571 587])
+                                    ("B" variable
+                                       (:pointer 1
+                                        :constant-flag t
+                                        :type ("Matrix" type (:type "class") nil nil))
+                                        (reparse-symbol arg-sub-list) [588 604]))                                  
+                                :type ("Matrix" type (:type "class") nil nil))
+                                (reparse-symbol classsubparts) [546 605]))                          
+                        :type "class")
+                        (reparse-symbol namespacesubparts) [127 608]))                  
+                :type "namespace")
+                nil [110 611]))          
+    :file "prog2.h"
+    :pointmax 619
+    :fsize 618
+    :lastmodtime '(21091 9556 242345 404000)
+    :unmatched-syntax 'nil
+    :lexical-table 
+        '(("__PROG2_YU_H__")
+          )
+
+    )
+   (semanticdb-table "common.h"
+    :file "common.h"
+    :fsize 258
+    :lastmodtime '(21091 23072 405265 971000)
+    )
+   )
+  :file "!home!leageon!build!matrix!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )
