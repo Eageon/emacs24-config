@@ -1,0 +1,1271 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1423/trunk/my-lisps
+END
+align-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/align-settings.el
+END
+edebug-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1064/trunk/my-lisps/edebug-settings.el
+END
+ezbl-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1364/trunk/my-lisps/ezbl-settings.el
+END
+palette-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1225/trunk/my-lisps/palette-settings.el
+END
+funny.el
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1398/trunk/my-lisps/funny.el
+END
+ahei-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1297/trunk/my-lisps/ahei-misc.el
+END
+vc-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1400/trunk/my-lisps/vc-settings.el
+END
+paren-position.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/629/trunk/my-lisps/paren-position.el
+END
+ropemacs-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1385/trunk/my-lisps/ropemacs-settings.el
+END
+auto-insert-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1332/trunk/my-lisps/auto-insert-settings.el
+END
+rails-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1343/trunk/my-lisps/rails-settings.el
+END
+ido-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1267/trunk/my-lisps/ido-settings.el
+END
+mic-paren-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1055/trunk/my-lisps/mic-paren-settings.el
+END
+dired-lis.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1391/trunk/my-lisps/dired-lis.el
+END
+apropos-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1055/trunk/my-lisps/apropos-face-settings.el
+END
+eagle.el
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/994/trunk/my-lisps/eagle.el
+END
+time-stamp-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1082/trunk/my-lisps/time-stamp-settings.el
+END
+edit-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1239/trunk/my-lisps/edit-misc.el
+END
+anything-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1082/trunk/my-lisps/anything-settings.el
+END
+tramp-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1055/trunk/my-lisps/tramp-settings.el
+END
+twit-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1055/trunk/my-lisps/twit-face-settings.el
+END
+all-auto-complete-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1332/trunk/my-lisps/all-auto-complete-settings.el
+END
+eclim-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/eclim-settings.el
+END
+recent-jump-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1082/trunk/my-lisps/recent-jump-settings.el
+END
+ediff+.el
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1228/trunk/my-lisps/ediff+.el
+END
+hippie-expand-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1082/trunk/my-lisps/hippie-expand-settings.el
+END
+pydb-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1422/trunk/my-lisps/pydb-settings.el
+END
+face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1343/trunk/my-lisps/face-settings.el
+END
+highlight-tail-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1082/trunk/my-lisps/highlight-tail-settings.el
+END
+svn-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1356/trunk/my-lisps/svn-misc.el
+END
+diff-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1055/trunk/my-lisps/diff-face-settings.el
+END
+font-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1309/trunk/my-lisps/font-settings.el
+END
+company-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1082/trunk/my-lisps/company-settings.el
+END
+cua-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1366/trunk/my-lisps/cua-settings.el
+END
+desktop-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1082/trunk/my-lisps/desktop-settings.el
+END
+ffap-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1082/trunk/my-lisps/ffap-settings.el
+END
+yasnippet-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1147/trunk/my-lisps/yasnippet-settings.el
+END
+hs-minor-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1299/trunk/my-lisps/hs-minor-mode-settings.el
+END
+color-theme-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1082/trunk/my-lisps/color-theme-settings.el
+END
+ruby-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1085/trunk/my-lisps/ruby-settings.el
+END
+compile-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1337/trunk/my-lisps/compile-face-settings.el
+END
+highlight-parentheses-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1082/trunk/my-lisps/highlight-parentheses-settings.el
+END
+html-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1384/trunk/my-lisps/html-mode-settings.el
+END
+pulse-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1294/trunk/my-lisps/pulse-settings.el
+END
+hl-line-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1154/trunk/my-lisps/hl-line-settings.el
+END
+comint-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1408/trunk/my-lisps/comint-settings.el
+END
+todochiku-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1082/trunk/my-lisps/todochiku-settings.el
+END
+highlight-tail-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1082/trunk/my-lisps/highlight-tail-face-settings.el
+END
+recent-jump.el
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/694/trunk/my-lisps/recent-jump.el
+END
+full-ack-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1082/trunk/my-lisps/full-ack-settings.el
+END
+dired+-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1055/trunk/my-lisps/dired+-face-settings.el
+END
+sql-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1083/trunk/my-lisps/sql-settings.el
+END
+multi-term-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1380/trunk/my-lisps/multi-term-settings.el
+END
+autoconf-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1082/trunk/my-lisps/autoconf-mode-settings.el
+END
+zjl-hl-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1300/trunk/my-lisps/zjl-hl-settings.el
+END
+maxframe-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1082/trunk/my-lisps/maxframe-settings.el
+END
+linum+.el
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1076/trunk/my-lisps/linum+.el
+END
+recent-jump-small.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/583/trunk/my-lisps/recent-jump-small.el
+END
+my-fontset-win.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/my-fontset-win.el
+END
+pre-command-hook.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/196/trunk/my-lisps/pre-command-hook.el
+END
+lua-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1419/trunk/my-lisps/lua-mode-settings.el
+END
+image-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1357/trunk/my-lisps/image-mode-settings.el
+END
+artist-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1375/trunk/my-lisps/artist-settings.el
+END
+base-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1294/trunk/my-lisps/base-face-settings.el
+END
+mic-paren-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1055/trunk/my-lisps/mic-paren-face-settings.el
+END
+conf-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1251/trunk/my-lisps/conf-mode-settings.el
+END
+ido-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1055/trunk/my-lisps/ido-face-settings.el
+END
+pde-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1342/trunk/my-lisps/pde-settings.el
+END
+highlight-symbol-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1232/trunk/my-lisps/highlight-symbol-settings.el
+END
+hs-minor-mode-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1299/trunk/my-lisps/hs-minor-mode-face-settings.el
+END
+icicles-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1082/trunk/my-lisps/icicles-settings.el
+END
+dired-lis-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1335/trunk/my-lisps/dired-lis-settings.el
+END
+ediff-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1323/trunk/my-lisps/ediff-settings.el
+END
+isearch-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1055/trunk/my-lisps/isearch-settings.el
+END
+all-buffer-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1178/trunk/my-lisps/all-buffer-settings.el
+END
+emaci.el
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1359/trunk/my-lisps/emaci.el
+END
+linum-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1055/trunk/my-lisps/linum-face-settings.el
+END
+rect-mark-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1082/trunk/my-lisps/rect-mark-settings.el
+END
+twit-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1082/trunk/my-lisps/twit-settings.el
+END
+org-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1406/trunk/my-lisps/org-settings.el
+END
+auto-complete+.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1418/trunk/my-lisps/auto-complete+.el
+END
+misc-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1357/trunk/my-lisps/misc-settings.el
+END
+emacs-server-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1082/trunk/my-lisps/emacs-server-settings.el
+END
+my-subdirs.el
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1295/trunk/my-lisps/my-subdirs.el
+END
+paren-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1055/trunk/my-lisps/paren-face-settings.el
+END
+ahei-face.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1300/trunk/my-lisps/ahei-face.el
+END
+completion-list-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1315/trunk/my-lisps/completion-list-mode-settings.el
+END
+eval-after-load.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1404/trunk/my-lisps/eval-after-load.el
+END
+help-mode-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1055/trunk/my-lisps/help-mode-face-settings.el
+END
+text-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/999/trunk/my-lisps/text-mode-settings.el
+END
+svn-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1411/trunk/my-lisps/svn-settings.el
+END
+replace-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1055/trunk/my-lisps/replace-face-settings.el
+END
+muse-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1217/trunk/my-lisps/muse-settings.el
+END
+isearch-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1055/trunk/my-lisps/isearch-face-settings.el
+END
+google-maps-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1278/trunk/my-lisps/google-maps-settings.el
+END
+all-paren-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1085/trunk/my-lisps/all-paren-settings.el
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1099/trunk/my-lisps/Makefile.am
+END
+weblogger-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1173/trunk/my-lisps/weblogger-settings.el
+END
+eagle-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/eagle-settings.el
+END
+dev-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1423/trunk/my-lisps/dev-settings.el
+END
+outline-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1272/trunk/my-lisps/outline-settings.el
+END
+pycomplete-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1385/trunk/my-lisps/pycomplete-settings.el
+END
+minibuffer-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1076/trunk/my-lisps/minibuffer-face-settings.el
+END
+browse-kill-ring-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1055/trunk/my-lisps/browse-kill-ring-face-settings.el
+END
+color-theme-ahei.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1055/trunk/my-lisps/color-theme-ahei.el
+END
+debugger-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1385/trunk/my-lisps/debugger-settings.el
+END
+linum-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1408/trunk/my-lisps/linum-settings.el
+END
+c-includes-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1082/trunk/my-lisps/c-includes-settings.el
+END
+sh-mode-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1055/trunk/my-lisps/sh-mode-face-settings.el
+END
+command-frequence.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1073/trunk/my-lisps/command-frequence.el
+END
+info-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1414/trunk/my-lisps/info-settings.el
+END
+cflow-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1355/trunk/my-lisps/cflow-mode-settings.el
+END
+view-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1292/trunk/my-lisps/view-mode-settings.el
+END
+perl-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1342/trunk/my-lisps/perl-face-settings.el
+END
+weather-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1082/trunk/my-lisps/weather-settings.el
+END
+svn-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1055/trunk/my-lisps/svn-face-settings.el
+END
+markdown-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1376/trunk/my-lisps/markdown-mode-settings.el
+END
+xref-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1082/trunk/my-lisps/xref-settings.el
+END
+mode-line-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1055/trunk/my-lisps/mode-line-face-settings.el
+END
+lisp-interaction-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1104/trunk/my-lisps/lisp-interaction-mode-settings.el
+END
+mode-line-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1123/trunk/my-lisps/mode-line-settings.el
+END
+rcodetools-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1049/trunk/my-lisps/rcodetools-settings.el
+END
+auto-complete-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1407/trunk/my-lisps/auto-complete-settings.el
+END
+util.el
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1380/trunk/my-lisps/util.el
+END
+doremi-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1082/trunk/my-lisps/doremi-settings.el
+END
+codepilot-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1304/trunk/my-lisps/codepilot-settings.el
+END
+compile-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1409/trunk/my-lisps/compile-misc.el
+END
+autopair-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1398/trunk/my-lisps/autopair-settings.el
+END
+pulse-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1296/trunk/my-lisps/pulse-face-settings.el
+END
+describe-symbol.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1111/trunk/my-lisps/describe-symbol.el
+END
+log-view-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1055/trunk/my-lisps/log-view-face-settings.el
+END
+moccur-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1064/trunk/my-lisps/moccur-settings.el
+END
+kde-emacs-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1418/trunk/my-lisps/kde-emacs-settings.el
+END
+hide-region-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1083/trunk/my-lisps/hide-region-settings.el
+END
+list-processes+-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1365/trunk/my-lisps/list-processes+-settings.el
+END
+which-func-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1055/trunk/my-lisps/which-func-settings.el
+END
+zjl-hl-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1298/trunk/my-lisps/zjl-hl-face-settings.el
+END
+sh-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1082/trunk/my-lisps/sh-mode-settings.el
+END
+twitter4e.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/906/trunk/my-lisps/twitter4e.el
+END
+grep-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1366/trunk/my-lisps/grep-settings.el
+END
+linkd-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/488/trunk/my-lisps/linkd-face-settings.el
+END
+multi-term.el
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1386/trunk/my-lisps/multi-term.el
+END
+linkd-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/linkd-settings.el
+END
+cursor-change.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/647/trunk/my-lisps/cursor-change.el
+END
+dired+-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1082/trunk/my-lisps/dired+-settings.el
+END
+wcy-desktop-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1130/trunk/my-lisps/wcy-desktop-settings.el
+END
+evernote-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1421/trunk/my-lisps/evernote-mode-settings.el
+END
+imenu-tree-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1287/trunk/my-lisps/imenu-tree-settings.el
+END
+template-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1404/trunk/my-lisps/template-settings.el
+END
+man-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1423/trunk/my-lisps/man-settings.el
+END
+sed-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1412/trunk/my-lisps/sed-settings.el
+END
+sourcepair-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1085/trunk/my-lisps/sourcepair-settings.el
+END
+ifdef-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1083/trunk/my-lisps/ifdef-settings.el
+END
+gud-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1386/trunk/my-lisps/gud-settings.el
+END
+c-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1291/trunk/my-lisps/c-settings.el
+END
+session-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1231/trunk/my-lisps/session-settings.el
+END
+eldoc-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1343/trunk/my-lisps/eldoc-settings.el
+END
+info-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1055/trunk/my-lisps/info-face-settings.el
+END
+browse-kill-ring-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1073/trunk/my-lisps/browse-kill-ring-settings.el
+END
+mouse-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1082/trunk/my-lisps/mouse-settings.el
+END
+icomplete+-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1055/trunk/my-lisps/icomplete+-face-settings.el
+END
+palette-misc.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1225/trunk/my-lisps/palette-misc.el
+END
+mark-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1082/trunk/my-lisps/mark-settings.el
+END
+describe-find-symbol-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1231/trunk/my-lisps/describe-find-symbol-settings.el
+END
+post-command-hook.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1073/trunk/my-lisps/post-command-hook.el
+END
+coding-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1243/trunk/my-lisps/coding-settings.el
+END
+pdb-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1387/trunk/my-lisps/pdb-settings.el
+END
+w3m-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1384/trunk/my-lisps/w3m-settings.el
+END
+sr-speedbar-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1286/trunk/my-lisps/sr-speedbar-settings.el
+END
+diff-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1082/trunk/my-lisps/diff-settings.el
+END
+ediff-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1055/trunk/my-lisps/ediff-face-settings.el
+END
+erc-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1082/trunk/my-lisps/erc-settings.el
+END
+help-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1408/trunk/my-lisps/help-mode-settings.el
+END
+eshell-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1198/trunk/my-lisps/eshell-settings.el
+END
+all-lisp-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1085/trunk/my-lisps/all-lisp-settings.el
+END
+emaci-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1359/trunk/my-lisps/emaci-settings.el
+END
+icomplete-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1082/trunk/my-lisps/icomplete-settings.el
+END
+eldoc-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1082/trunk/my-lisps/eldoc-face-settings.el
+END
+apropos-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1111/trunk/my-lisps/apropos-settings.el
+END
+sgml-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1082/trunk/my-lisps/sgml-mode-settings.el
+END
+vc+.el
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1336/trunk/my-lisps/vc+.el
+END
+find-symbol.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1111/trunk/my-lisps/find-symbol.el
+END
+edit-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1423/trunk/my-lisps/edit-settings.el
+END
+ioccur.el
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/319/trunk/my-lisps/ioccur.el
+END
+dired-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1339/trunk/my-lisps/dired-settings.el
+END
+doxymacs-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1404/trunk/my-lisps/doxymacs-settings.el
+END
+which-func-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1055/trunk/my-lisps/which-func-face-settings.el
+END
+select-buffer.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1359/trunk/my-lisps/select-buffer.el
+END
+compile-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1418/trunk/my-lisps/compile-settings.el
+END
+ecb-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1082/trunk/my-lisps/ecb-settings.el
+END
+go-to-char-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1359/trunk/my-lisps/go-to-char-face-settings.el
+END
+dired-x-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1171/trunk/my-lisps/dired-x-settings.el
+END
+all-help-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1231/trunk/my-lisps/all-help-settings.el
+END
+info+-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1055/trunk/my-lisps/info+-face-settings.el
+END
+perl-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1385/trunk/my-lisps/perl-settings.el
+END
+w3m-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1055/trunk/my-lisps/w3m-face-settings.el
+END
+paren-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1055/trunk/my-lisps/paren-settings.el
+END
+highlight-symbol-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1055/trunk/my-lisps/highlight-symbol-face-settings.el
+END
+term-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1202/trunk/my-lisps/term-settings.el
+END
+man-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1055/trunk/my-lisps/man-face-settings.el
+END
+svn.el
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1327/trunk/my-lisps/svn.el
+END
+w3m-lnis.el
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/754/trunk/my-lisps/w3m-lnis.el
+END
+woman-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1339/trunk/my-lisps/woman-face-settings.el
+END
+emacs-lisp-mode-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1265/trunk/my-lisps/emacs-lisp-mode-settings.el
+END
+python-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1404/trunk/my-lisps/python-settings.el
+END
+woman-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1372/trunk/my-lisps/woman-settings.el
+END
+moccur-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1055/trunk/my-lisps/moccur-face-settings.el
+END
+hide-ifdef-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1082/trunk/my-lisps/hide-ifdef-settings.el
+END
+recentf-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1298/trunk/my-lisps/recentf-settings.el
+END
+font-lock-face-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1226/trunk/my-lisps/font-lock-face-settings.el
+END
+flymake-settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1386/trunk/my-lisps/flymake-settings.el
+END

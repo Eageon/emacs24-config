@@ -1,1 +1,32 @@
-(nil)
+((("tool-bar-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("goto-address-mode" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("goto-char" .
+   [0 0 0 0 0 0 0 0 1])
+  ("point-min" .
+   [0 0 0 1 0 0 0 0 0])
+  ("let" .
+   [2 0 0])
+  ("match" .
+   [0 0 0 0 1])
+  ("while" .
+   [1 0 0 0 0])
+  ("re-search-forward" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("match-string" .
+   [0 0 0 1 0 1 0 0 0 0 0 0])
+  ("delete-other-frames" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("delete-region" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("match-beginning" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("match-end" .
+   [0 0 0 1 0 0 0 0 0])
+  ("Randomize" .
+   [0 0 1 0 0 0 0 0 0])))
