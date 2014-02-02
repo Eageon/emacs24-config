@@ -45,6 +45,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(ac-clang-flags (quote ("-I/usr/include" "-I/usr/local/include" "-I/usr/include/c++/4.8" "-I/usr/include/clang/3.4/include")))
  '(custom-enabled-themes (quote (wombat)))
  '(custom-theme-load-path (quote ("~/.emacs.d/themes" custom-theme-directory t)))
  '(desktop-after-read-hook (quote (list-buffers)))
@@ -68,7 +69,7 @@
  '(semantic-default-submodes (quote (global-semantic-highlight-func-mode global-semantic-stickyfunc-mode global-semantic-idle-scheduler-mode global-semanticdb-minor-mode global-semantic-idle-local-symbol-highlight-mode global-semantic-show-parser-state-mode)))
  '(semantic-mode t)
  '(semanticdb-project-roots (quote ("/home/leageon/build/FileSystem")))
- '(standard-indent 8)
+ '(standard-indent 4)
  '(tool-bar-mode t)
  '(tool-bar-style (quote text))
  '(tramp-default-method "ssh")
@@ -162,6 +163,9 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(ac-candidate-face ((t (:inherit popup-face))))
+ '(ac-clang-candidate-face ((t (:inherit popup-face))))
+ '(ac-clang-selection-face ((t (:inherit popup-menu-selection-face))))
  '(border ((t nil)))
  '(cursor ((t (:background "dark goldenrod"))))
  '(scroll-bar ((t (:background "black" :foreground "black")))))
@@ -178,6 +182,9 @@
 (autoload 'paredit-mode "paredit"
   "Minor mode for pseudo-structurally editing Lisp code."
   t)
+
+(setq c-default-style "linux"
+          c-basic-offset 4)
 
 ;;;;;;;;;;;;
 ;; Scheme 
