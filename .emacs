@@ -45,7 +45,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(ac-clang-flags (quote ("-I/usr/include" "-I/usr/local/include" "-I/usr/include/c++/4.8" "-I/usr/include/clang/3.4/include")))
+ '(ac-clang-flags (quote ("-I/usr/include" "-I/usr/local/include" "-I/usr/include/c++/4.8" "-I/usr/include/clang/3.4/include" "-I." "-I./include" "-I../include")))
  '(custom-enabled-themes (quote (wombat)))
  '(custom-theme-load-path (quote ("~/.emacs.d/themes" custom-theme-directory t)))
  '(desktop-after-read-hook (quote (list-buffers)))
@@ -53,7 +53,7 @@
  '(desktop-save-hook nil)
  '(desktop-save-mode t)
  '(ecb-options-version "2.40")
- '(ede-project-directories (quote ("/home/leageon/build/FileSystem" "/home/leageon/build/filesystem" "/home/leageon/build/matrix")))
+ '(ede-project-directories (quote ("/home/leageon/build/emacs-clang-complete-async/src" "/home/leageon/build/FileSystem" "/home/leageon/build/filesystem" "/home/leageon/build/matrix")))
  '(electric-indent-mode t)
  '(electric-layout-mode t)
  '(font-use-system-font nil)
@@ -168,6 +168,7 @@
  '(ac-clang-selection-face ((t (:inherit popup-menu-selection-face))))
  '(border ((t nil)))
  '(cursor ((t (:background "dark goldenrod"))))
+ '(diredp-compressed-file-suffix ((t (:foreground "Blue"))))
  '(scroll-bar ((t (:background "black" :foreground "black")))))
 
 
@@ -255,3 +256,32 @@
 
 
 (show-paren-mode t)
+
+(require 'dired-details)
+(dired-details-install)
+
+(require 'dired-details+)
+
+(require 'dired-single)
+
+(defun my-dired-init ()
+        "Bunch of stuff to run for dired, either immediately or when it's
+         loaded."
+        ;; <add other stuff here>
+	(define-key dired-mode-map [return] 'dired-single-buffer)
+        (define-key dired-mode-map [down-mouse-1] 'dired-single-buffer-mouse)
+        (define-key dired-mode-map "^"
+      	(function
+	 (lambda nil (interactive) (dired-single-buffer "..")))))
+
+      ;; if dired's already loaded, then the keymap will be bound
+(if (boundp 'dired-mode-map)
+      	;; we're good to go; just add our bindings
+      	(my-dired-init)
+        ;; it's not loaded yet, so add our bindings to the load-hook
+        (add-hook 'dired-load-hook 'my-dired-init))
+
+;;(require 'dired+)
+;;(toggle-diredp-find-file-reuse-dir 1)
+(tooltip-mode 0)
+
