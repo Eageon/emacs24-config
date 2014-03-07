@@ -74,6 +74,8 @@
  '(tool-bar-style (quote text))
  '(tramp-default-method "ssh")
  '(tramp-default-proxies-alist nil)
+ '(tramp-default-user-alist (quote (("\\`smb\\'" nil nil) ("\\`\\(?:fcp\\|krlogin\\|r\\(?:cp\\|emcp\\|sh\\)\\|telnet\\)\\'" nil "leageon") ("\\`\\(?:ksu\\|su\\(?:do\\)?\\)\\'" nil "root") ("\\`\\(?:socks\\|tunnel\\)\\'" nil "leageon") ("\\`synce\\'" nil nil))))
+ '(tramp-verbose 3)
  '(visible-cursor t)
  '(w3m-command "/usr/bin/w3m")
  '(w3m-fb-mode t)
@@ -285,3 +287,8 @@
 ;;(toggle-diredp-find-file-reuse-dir 1)
 (tooltip-mode 0)
 
+;;(require 'tramp)
+;;(add-to-list 'tramp-default-proxies-alist 
+;;             '("\\`asterisk\\'" 
+;;               "\\`root\\'" 
+;;               "/ssh:jxy132330@cs2.utdallas.edu:"))
