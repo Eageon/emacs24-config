@@ -1,0 +1,84 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Mar 22 17:03:39 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("flycheck-" "flycheck" "haskell"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/test/memoized-prime.clj" "~/test/" "~/.emacs" "/usr/bin/ghc" "~/build/test.hs" "~/test/test.txt" "~/test/" "~/test/renkai.c" "~/build/Jumbline/rearrange.s" "~/build/Jumbline/replace.py" "/home/leageon/build/Jumbline" "~/build/Jumbline/common.h" "~/build/Jumbline/rearrange.c"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/leageon/test/"
+  "~/test/"
+  'fundamental-mode
+  '(yas-minor-mode undo-tree-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  "/home/leageon/build/Jumbline/replace.py"
+  "replace.py"
+  'python-mode
+  '(yas-minor-mode auto-complete-mode undo-tree-mode linum-mode)
+  785
+  '(758 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/leageon/.emacs.d/elpa/flycheck-haskell-20140114.454/flycheck-haskell.el"
+  "flycheck-haskell.el"
+  'emacs-lisp-mode
+  '(yas-minor-mode auto-complete-mode undo-tree-mode)
+  227
+  '(5421 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/leageon/.emacs.d/elpa/flycheck-haskell-20140114.454/flycheck-haskell-autoloads.el"
+  "flycheck-haskell-autoloads.el"
+  'emacs-lisp-mode
+  '(yas-minor-mode auto-complete-mode undo-tree-mode)
+  411
+  '(258 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/leageon/.emacs.d/elpa/haskell-mode-20140322.934/haskell-mode.el"
+  "haskell-mode.el"
+  'emacs-lisp-mode
+  '(yas-minor-mode auto-complete-mode undo-tree-mode)
+  1218
+  '(15805 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/leageon/build/Jumbline/rearrange.c"
+  "rearrange.c"
+  'c-mode
+  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode linum-mode)
+  2170
+  '(1766 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
