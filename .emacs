@@ -57,6 +57,8 @@
  '(electric-indent-mode t)
  '(electric-layout-mode t)
  '(font-use-system-font nil)
+ '(haskell-indent-spaces 2)
+ '(haskell-mode-hook (quote (imenu-add-menubar-index turn-on-haskell-doc)))
  '(icomplete-mode t)
  '(icomplete-show-key-bindings t)
  '(line-number-mode t)
@@ -181,6 +183,10 @@
 
 (require 'ibus)
 (add-hook 'after-init-hook 'ibus-mode-on)
+(setq ibus-agent-file-name "/usr/local/bin/ibus-el-agent")
+(ibus-define-common-key ?\C-\s nil)
+(ibus-define-common-key ?\C-/ nil)
+(ibus-define-common-key ?\C-\; nil)
 
 (autoload 'paredit-mode "paredit"
   "Minor mode for pseudo-structurally editing Lisp code."
@@ -292,3 +298,23 @@
 ;;             '("\\`asterisk\\'" 
 ;;               "\\`root\\'" 
 ;;               "/ssh:jxy132330@cs2.utdallas.edu:"))
+
+(require 'cider)
+(add-hook 'cider-mode-hook 'cider-turn-on-eldoc-mode)
+(setq nrepl-hide-special-buffers t)
+(setq cider-repl-wrap-history t)
+(setq cider-repl-history-size 1000) ; the default is 500
+(setq cider-repl-history-file "~/cider/history")
+
+
+
+
+
+
+
+
+
+
+
+
+
