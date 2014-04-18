@@ -57,6 +57,10 @@
  '(electric-indent-mode t)
  '(electric-layout-mode t)
  '(font-use-system-font nil)
+ '(global-semantic-idle-scheduler-mode t)
+ '(global-semantic-idle-summary-mode t)
+ '(global-semantic-mru-bookmark-mode t)
+ '(global-semanticdb-minor-mode t)
  '(haskell-indent-spaces 2)
  '(haskell-mode-hook (quote (imenu-add-menubar-index turn-on-haskell-doc)))
  '(icomplete-mode t)
@@ -293,6 +297,8 @@
 ;;(toggle-diredp-find-file-reuse-dir 1)
 (tooltip-mode 0)
 
+;;(define-key semantic-mode [C-x j] 'semantic-ia-fast-jump)
+
 ;;(require 'tramp)
 ;;(add-to-list 'tramp-default-proxies-alist 
 ;;             '("\\`asterisk\\'" 
@@ -306,6 +312,8 @@
 (setq cider-repl-history-size 1000) ; the default is 500
 (setq cider-repl-history-file "~/cider/history")
 
+(require 'linum)
+(linum-mode 1)
 
 
 
