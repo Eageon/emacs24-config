@@ -2,7 +2,7 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Mon Apr  7 01:07:35 2014
+;; Created Sun Jun  8 01:26:21 2014
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
@@ -10,108 +10,20 @@
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("format" "flycheck-" "flycheck" "haskell"))
+(setq search-ring nil)
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("~/build/VariableElimination/src/immigration.java" "~/.emacs" "~/build/hw3-helper-code/GM.cpp" "~/test/isPrime/prime.java" "~/test/prime.java" "~/test/memoized-prime.clj" "~/test/" "~/.emacs" "/usr/bin/ghc" "~/build/test.hs" "~/test/test.txt" "~/test/" "~/test/renkai.c" "~/build/Jumbline/rearrange.s" "~/build/Jumbline/replace.py" "/home/leageon/build/Jumbline" "~/build/Jumbline/common.h" "~/build/Jumbline/rearrange.c"))
+(setq file-name-history '("~/.emacs.d/" "~/.emacs.d/elpa/cider-20140606.712/cider.el"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 206
-  "/home/leageon/build/VariableElimination/src/immigration.java"
-  "immigration.java"
-  'java-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode flycheck-mode)
-  3761
-  '(2284 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/build/hw3-helper-code/GM.cpp"
-  "GM.cpp"
-  'c++-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode linum-mode)
-  4501
-  '(8154 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/build/hw3-helper-code/Variable.h"
-  "Variable.h"
-  'c-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode)
-  212
-  '(1093 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/build/hw3-helper-code/Variable.cpp"
-  "Variable.cpp"
-  'c++-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/build/hw3-helper-code/GM.h"
-  "GM.h"
-  'c-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode linum-mode)
-  307
-  '(315 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/.emacs"
-  ".emacs"
+  "/home/evangileon/.emacs.d/elpa/cider-20140606.712/cider.el"
+  "cider.el"
   'emacs-lisp-mode
   '(yas-minor-mode auto-complete-mode undo-tree-mode)
-  10342
-  '(10322 nil)
+  2334
+  '(nil nil)
   nil
   nil
   '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/build/hw3-helper-code/Main.cpp"
-  "Main.cpp"
-  'c++-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode)
-  444
-  '(460 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/leageon/test/memoized-prime.clj"
-  "memoized-prime.clj"
-  'clojure-mode
-  '(yas-minor-mode auto-complete-mode undo-tree-mode eldoc-mode linum-mode)
-  537
-  '(597 nil)
-  nil
-  nil
-  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_vector.h"
-  "stl_vector.h"
-  'c++-mode
-  '(abbrev-mode yas-minor-mode auto-complete-mode undo-tree-mode)
-  6614
-  '(nil nil)
-  t
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
 
